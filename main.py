@@ -8,7 +8,7 @@ To change the universe, edit TICKERS below.
 
 from screener import screen, save_cache, is_market_hours
 
-TICKERS = ['AAPL', 'NVDA', 'TSLA', 'INTC', 'AMD', 'COIN', 'PLTR', 'MSTR']
+TICKERS = ['AAPL', 'NVDA', 'TSLA', 'INTC', 'AMD', 'COIN', 'PLTR']
 
 
 def _fmt(df, cols, na='--'):
