@@ -38,7 +38,8 @@ To change the ticker universe, edit the `TICKERS` constant at the top of `main.p
 
 ## Output
 
-Four ranked tables are printed:
+Four ranked tables are printed. Example output:
+
 <img width="750" height="217" alt="image" src="https://github.com/user-attachments/assets/0e2546f5-2d4d-435d-ac27-ac0d71ae0c4c" />
 <img width="1168" height="221" alt="image" src="https://github.com/user-attachments/assets/0e02939d-2c7c-4403-acf2-bbf405c1de7c" />
 <img width="915" height="222" alt="image" src="https://github.com/user-attachments/assets/82eaddac-9c70-4c01-9281-70995cd3ee13" />
