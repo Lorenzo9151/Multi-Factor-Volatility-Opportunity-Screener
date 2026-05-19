@@ -20,7 +20,6 @@ screening_cache.json
 # IDE / local tooling
 .vscode/
 .idea/
-.claude/
 
 # OS
 .DS_Store
